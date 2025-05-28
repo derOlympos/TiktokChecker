@@ -1,6 +1,6 @@
 <h1 align="center">Tiktok Account Checker</h1>
 <p align="center">
-  <strong>Log API'den çekilen token'ları kullanarak TikTok hesaplarının geçerliliğini kontrol eden ileri düzey bir araç.</strong>
+  <strong>Log API'den çekilen accountları kullanarak TikTok hesaplarının geçerliliğini kontrol eden bir araçtır.</strong>
 </p>
 
 <p align="center">
@@ -15,14 +15,14 @@
 
 ---
 
-``termux-setup-storage``  
 ``pkg update -y``  
 ``pkg install python -y``  
+``termux-setup-storage``  
 ``pkg install git -y``  
 ``git clone https://github.com/derOlympos/TiktokChecker``  
 ``cd TiktokChecker``  
 ``pip install -r requirements.txt``  
-``python checker.py``  
+``python run.py``  
 
 ---
 
