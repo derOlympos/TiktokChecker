@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/tiktok_logo_icon_147252.png" width="200" alt="Tiktok Logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" width="200" alt="TikTok Logo" />
 </p>
 
 <p align="center">
