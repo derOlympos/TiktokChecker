@@ -16,7 +16,8 @@
 pkg update -y  
 pkg install python -y  
 termux-setup-storage  
-pkg install git -y  
+pkg install git -y
+cd storage
 git clone https://github.com/derOlympos/TiktokChecker  
 cd TiktokChecker  
 pip install -r requirements.txt  
